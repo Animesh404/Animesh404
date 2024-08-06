@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Animesh404
 - 👀 I’m interested in Web3 development
-- 🌱 I’m currently learning Solidity
+- 🌐 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me https://www.linkedin.com/in/animesh-kumar-jha-a4b9ba190/
 
